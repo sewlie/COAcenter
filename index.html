@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COA Data Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+            padding: 20px;
+        }
+        .container {
+            width: 100%;
+            overflow-x: auto; /* Enables horizontal scrolling */
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+            white-space: nowrap; /* Prevents text from wrapping */
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 6px;
+            text-align: left;
+        }
+        th {
+            background: #007BFF;
+            color: white;
+        }
+        .table-wrapper {
+            overflow-x: auto; /* Horizontal scroll if needed */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>COA Data Table</h2>
+        <div class="table-wrapper">
+            <table id="coa-table">
+                <thead>
+                    <tr id="header-row">
+                        <th>Sample Name</th>
+                        <th>Batch#</th>
+                        <th>Total Amount</th>
+                        <th>Retail Size</th>
+                        <th>Sampled Date</th>
+                        <th>Total Terpenes</th>
+                    </tr>
+                </thead>
+                <tbody id="coa-body"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        async function fetchData() {
+            const response = await fetch('coa_data.json'); // Ensure JSON is served from the same directory
+            const data = await response.json();
+            const tableHeader = document.getElementById("header-row");
+            const tableBody = document.getElementById("coa-body");
+
+            let allTerpenes = new Set();
+            let allPesticides = new Set();
+
+            // Collect all unique column headers for terpenes & pesticides
+            data.forEach(entry => {
+                Object.keys(entry["Terpenes"] || {}).forEach(terpene => allTerpenes.add(terpene));
+                Object.keys(entry["Pesticides"] || {}).forEach(pesticide => allPesticides.add(pesticide));
+            });
+
+            // Append Terpene & Pesticide Headers
+            allTerpenes.forEach(terpene => {
+                let th = document.createElement("th");
+                th.textContent = terpene;
+                tableHeader.appendChild(th);
+            });
+
+            allPesticides.forEach(pesticide => {
+                let th = document.createElement("th");
+                th.textContent = pesticide;
+                tableHeader.appendChild(th);
+            });
+
+            // Populate Table Rows
+            data.forEach(entry => {
+                let row = document.createElement("tr");
+
+                row.innerHTML = `
+                    <td>${entry["Sample Information"]["File Name"] || "N/A"}</td>
+                    <td>${entry["Sample Information"]["Batch#"] || "N/A"}</td>
+                    <td>${entry["Sample Information"]["Total Amount"] || "N/A"}</td>
+                    <td>${entry["Sample Information"]["Retail Size"] || "N/A"}</td>
+                    <td>${entry["Sample Information"]["Sampled Date"] || "N/A"}</td>
+                    <td>${entry["Sample Information"]["Total Terpenes"] || "N/A"}</td>
+                `;
+
+                // Fill Terpene Data
+                allTerpenes.forEach(terpene => {
+                    let value = entry["Terpenes"][terpene] || "0.0000%";
+                    row.innerHTML += `<td>${value}</td>`;
+                });
+
+                // Fill Pesticide Data
+                allPesticides.forEach(pesticide => {
+                    let data = entry["Pesticides"][pesticide] || { "Pass/Fail": "N/A" };
+                    let passFail = data["Pass/Fail"] || "N/A";
+                    row.innerHTML += `<td>${passFail}</td>`;
+                });
+
+                tableBody.appendChild(row);
+            });
+        }
+
+        fetchData();
+    </script>
+
+</body>
+</html>

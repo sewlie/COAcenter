@@ -1,0 +1,1198 @@
+[
+    {
+        "Sample Information": {
+            "Batch#": "DK21824FLWAFG",
+            "Total Amount": "7900 units",
+            "Retail Size": "3.5 gram",
+            "Serving Size": "0.075 gram",
+            "Sampled Date": "08/12/24 04:10 PM",
+            "Total Terpenes": "1.6500%",
+            "File Name": "Afghani - Dank.pdf"
+        },
+        "Cannabinoids": [
+            "27.8163% <0.1000 32.9397%",
+            "1152.8895 mg",
+            "(6AR,9R) (6AR,9S)",
+            "D10-THC D10-THC CBC CBD CBDA CBDV CBG D8-THC CBGA CBN D9-THC THCA THCV",
+            "% <0.1000 <0.1000 0.3759 <0.1000 <0.1000 <0.1000 0.2319 <0.1000 0.7956 0.2387 8.9140 13.8948 <0.1000",
+            "mg/unit <3.500 <3.500 13.157 <3.500 <3.500 <3.500 8.117 <3.500 27.846 8.355 311.990 486.318 <3.500",
+            "LOQ 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000",
+            "% % % % % % % % % % % % %"
+        ],
+        "Pesticides": {
+            "AZADIRACHTIN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACEPHATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACEQUINOCYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACETAMIPRID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ALDICARB": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "AZOXYSTROBIN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CHLORMEQUAT CHLORIDE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "BIFENAZATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DAMINOZIDE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "BOSCALID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CARBOFURAN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CHLORANTRANILIPROLE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CLOFENTEZINE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DIAZINON": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DICHLORVOS": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "FENPYROXIMATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "FIPRONIL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "HEXYTHIAZOX": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "IMAZALIL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "IMIDACLOPRID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "KRESOXIM METHYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "MALATHION": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METALAXYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METHIOCARB": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METHOMYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "MEVINPHOS": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "NALED": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "OXAMYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            }
+        },
+        "Microbial & Mycotoxins": [
+            "Analyte LOQ Units Result Pass / Action Analyte LOQ Units Result Pass / Action",
+            "Fail Level Fail Level",
+            "TOTAL AEROBIC BACTERIA 100 CFU/g <100 TESTED AFLATOXIN G2 0.0025 ppm <0.0025PASS 0.02",
+            "TOTAL YEAST AND MOLD 100 CFU/g <100 TESTED AFLATOXIN G1 0.0025 ppm <0.0025PASS 0.02",
+            "ESCHERICHIA COLI SHIGELLA 1 Not Present PASS AFLATOXIN B2 0.0025 ppm <0.0025PASS 0.02",
+            "SPP AFLATOXIN B1 0.0025 ppm <0.0025PASS 0.02",
+            "SALMONELLA SPECIES 1 Not Present PASS OCHRATOXIN A+ 0.0100 ppm <0.0100PASS 0.02",
+            "ASPERGILLUS TERREUS 1 Not Present PASS TOTAL AFLATOXINS (B1, B2, G1, G2) 0.0025 ppm <0.0025PASS 0.02",
+            "ASPERGILLUS NIGER 1 Not Present PASS",
+            "Weight:",
+            "ASPERGILLUS FLAVUS 1 Not Present PASS NA",
+            "ASPERGILLUS FUMIGATUS 1 Not Present PASS",
+            "Analysis Method : SOP.T.30.104.NY, SOP.T.40.104.NY",
+            "Weight: Analyzed Date : 08/13/24 15:23:54",
+            "0.8861g",
+            ".",
+            "Analysis Method : SOP.T.40.058A.NY, SOP.T.40.058B.NY, SOP.T.40.208.NY",
+            "Analyzed Date : 08/12/24 16:46:18"
+        ],
+        "Heavy Metals": [
+            "Metal LOQ Units Result Pass / Action",
+            "Fail Level",
+            "ANTIMONY 0.1000 ug/g <0.1000PASS 2",
+            "ARSENIC 0.1000 ug/g <0.1000PASS 0.2",
+            "CADMIUM 0.1000 ug/g <0.1000PASS 0.2",
+            "CHROMIUM 1.0000 ug/g <1.0000PASS 110",
+            "COPPER 1.0000 ug/g <1.0000PASS 30",
+            "LEAD 0.1000 ug/g <0.1000PASS 0.5",
+            "MERCURY 0.0100 ug/g <0.0100PASS 0.1",
+            "NICKEL 0.1000 ug/g <0.1000PASS 5",
+            "Weight:",
+            "0.4953g",
+            "Analysis Method : SOP.T.30.084.NY, SOP.T.40.084.NY",
+            "Analyzed Date : 08/13/24 17:44:32",
+            ".",
+            "This Kaycha Labs Certification shall not be reproduced, unless in its entirety, without written approval from Kaycha Erica Troy",
+            "Labs. The results relate only to the material or product analyzed. ND=Not Detected, ppm=Parts Per Million,",
+            "ppb=Parts Per Billion, RSD=Relative Standard Deviation. Limit of Detection (LOD) and Limit Of Quantitation (LOQ) Lab Director",
+            "are terms used to describe the smallest concentration that can be detected and reliably measured by an analytical NY Permit # OCM-CPL-2022-00006",
+            "procedure, respectively. Action Levels are State determined thresholds based on 9 New York Codes, Rules and ISO 17025 Accreditation # 97164",
+            "Regulations (NYCRR) Part 130 and Cannabis Law. The Measurement of Uncertainty (MU) error is available from the ___________________",
+            "lab upon request. The \"Decision Rule\" for pass/fail does not include the MU. Any calculated totals may contain Signature",
+            "rounding errors. 08/21/24"
+        ],
+        "Filth & Moisture": [
+            "Moisture",
+            "Material",
+            "Analyte LOQ Units Result P/F Action Level Analyte LOQ Units Result P/F Action Level",
+            "Stems (>3mm) 1.00 % ND PASS 5 Moisture Content 1.0 % 7.0 PASS 15",
+            "Foreign Matter 0.10 % ND PASS 2 Weight:",
+            "Mammalian excreta 0.10 mg ND PASS 1 0.994g",
+            "Weight: Analysis Method : SOP.T.40.021",
+            "10.0877g Analyzed Date : 08/13/24 12:42:38",
+            "Analysis Method : SOP.T.40.090",
+            "Analyzed Date : 08/12/24 10:27:14",
+            ".",
+            "PASSED"
+        ],
+        "Terpenes": {
+            "Terpenes LOQ mg/unit % Result (%) Terpenes LOQ (%) mg/unit % Result (%)": "0.0000%",
+            "BETA-CARYOPHYLLENE": "0.6200%",
+            "LIMONENE": "0.2500%",
+            "ALPHA-HUMULENE": "0.2500%",
+            "LINALOOL": "0.1600%",
+            "ALPHA-BISABOLOL": "0.1200%",
+            "ALPHA TERPINEOL": "0.0700%",
+            "FENCHYL ALCOHOL": "0.0700%",
+            "CARYOPHYLLENE OXIDE": "0.0400%",
+            "BETA-MYRCENE": "0.0400%",
+            "ALPHA-PINENE": "0.0200%",
+            "OCIMENE": "0.0100%",
+            "FARNESENE": "0.0000%",
+            "VALENCENE": "0.0000%",
+            "CAMPHENE": "0.0000%",
+            "GERANIOL": "0.0000%",
+            "GUAIOL": "0.0000%",
+            "MENTHOL": "0.0000%",
+            "TERPINOLENE": "0.0000%",
+            "ALPHA-PHELLANDRENE": "0.0000%",
+            "ALPHA-TERPINENE": "0.0000%",
+            "BETA-PINENE": "0.0000%"
+        }
+    },
+    {
+        "Sample Information": {
+            "Batch#": "P-FDPR112024-983A",
+            "Total Amount": "7000 units",
+            "Retail Size": "1 gram",
+            "Serving Size": "0.0125 gram",
+            "Sampled Date": "10/03/24 10:50 AM",
+            "Total Terpenes": "0.6200%",
+            "File Name": "Agent Z - 1g - Find.pdf"
+        },
+        "Cannabinoids": [
+            "22.2767% <0.1000 25.7637%",
+            "mg",
+            "(6AR,9R) (6AR,9S)",
+            "D10-THC D10-THC CBC CBD CBDA CBDV CBG D8-THC CBGA CBN D9-THC THCA THCV",
+            "% <0.1000 <0.1000 <0.1000 <0.1000 <0.1000 <0.1000 0.1146 <0.1000 0.4069 <0.1000 1.1332 24.1090 <0.1000",
+            "mg/unit <1.000 <1.000 <1.000 <1.000 <1.000 <1.000 1.146 <1.000 4.069 <1.000 11.332 241.090 <1.000",
+            "LOQ 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000",
+            "% % % % % % % % % % % % %"
+        ],
+        "Pesticides": {
+            "ACEQUINOCYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ABAMECTIN B1A": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACEPHATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACETAMIPRID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ALDICARB": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "AZOXYSTROBIN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CHLORMEQUAT CHLORIDE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "BIFENAZATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DAMINOZIDE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CARBOFURAN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "BOSCALID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CHLORANTRANILIPROLE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DIAZINON": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CLOFENTEZINE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DICHLORVOS": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "FENPYROXIMATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "FIPRONIL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "HEXYTHIAZOX": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "IMAZALIL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "IMIDACLOPRID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "KRESOXIM METHYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "MALATHION": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METALAXYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METHIOCARB": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METHOMYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "MEVINPHOS": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "NALED": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "OXAMYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            }
+        },
+        "Microbial & Mycotoxins": [
+            "Analyte LOQ Units Result Pass / Action Analyte LOQ Units Result Pass / Action",
+            "Fail Level Fail Level",
+            "TOTAL AEROBIC BACTERIA 100 CFU/g <100 PASS 100000 AFLATOXIN G2 0.0025 ppm <0.0025PASS 0.02",
+            "TOTAL YEAST AND MOLD 100 CFU/g 100 PASS 10000 AFLATOXIN G1 0.0025 ppm <0.0025PASS 0.02",
+            "ESCHERICHIA COLI SHIGELLA 1 Not Present PASS AFLATOXIN B2 0.0025 ppm <0.0025PASS 0.02",
+            "SPP AFLATOXIN B1 0.0025 ppm <0.0025PASS 0.02",
+            "SALMONELLA SPECIES 1 Not Present PASS OCHRATOXIN A+ 0.0100 ppm <0.0100PASS 0.02",
+            "ASPERGILLUS TERREUS 1 Not Present PASS TOTAL AFLATOXINS (B1, B2, G1, G2) 0.0025 ppm <0.0025PASS 0.02",
+            "ASPERGILLUS NIGER 1 Not Present PASS",
+            "Weight:",
+            "ASPERGILLUS FLAVUS 1 Not Present PASS 1.0067g",
+            "ASPERGILLUS FUMIGATUS 1 Not Present PASS",
+            "Analysis Method : SOP.T.30.104.NY, SOP.T.40.104.NY",
+            "Weight: Analyzed Date : 10/07/24 16:11:17",
+            "1.089g",
+            ".",
+            "Analysis Method : SOP.T.40.058A.NY, SOP.T.40.058B.NY, SOP.T.40.208.NY",
+            "Analyzed Date : 10/07/24 14:40:32"
+        ],
+        "Heavy Metals": [
+            "Metal LOQ Units Result Pass / Action",
+            "Fail Level",
+            "ANTIMONY 0.1000 ug/g <0.1000PASS 2",
+            "ARSENIC 0.1000 ug/g <0.1000PASS 0.2",
+            "CADMIUM 0.1000 ug/g <0.1000PASS 0.2",
+            "CHROMIUM 1.0000 ug/g <1.0000PASS 110",
+            "COPPER 1.0000 ug/g <1.0000PASS 30",
+            "LEAD 0.1000 ug/g <0.1000PASS 0.5",
+            "MERCURY 0.0100 ug/g <0.0100PASS 0.1",
+            "NICKEL 0.1000 ug/g <0.1000PASS 2",
+            "Weight:",
+            "0.4491g",
+            "Analysis Method : SOP.T.30.084.NY, SOP.T.40.084.NY",
+            "Analyzed Date : 10/07/24 10:13:18",
+            ".",
+            "This Kaycha Labs Certification shall not be reproduced, unless in its entirety, without written approval from Kaycha Erica Troy Revision: #1 - Report revised to",
+            "Labs. The results relate only to the material or product analyzed. ND=Not Detected, ppm=Parts Per Million, update product name and batch id.",
+            "ppb=Parts Per Billion, RSD=Relative Standard Deviation. Limit of Detection (LOD) and Limit Of Quantitation (LOQ) Lab Director",
+            "are terms used to describe the smallest concentration that can be detected and reliably measured by an analytical NY Permit # OCM-CPL-2022-00006",
+            "procedure, respectively. Action Levels are State determined thresholds based on 9 New York Codes, Rules and ISO 17025 Accreditation # 97164",
+            "Regulations (NYCRR) Part 130 and Cannabis Law. The Measurement of Uncertainty (MU) error is available from the ___________________",
+            "lab upon request. The \"Decision Rule\" for pass/fail does not include the MU. Any calculated totals may contain Signature",
+            "rounding errors. 10/07/24",
+            "Revision: #1 This revision supersedes any and all previous versions of this document."
+        ],
+        "Filth & Moisture": [
+            "Moisture",
+            "Material",
+            "Analyte LOQ Units Result P/F Action Level Analyte LOQ Units Result P/F Action Level",
+            "Stems (>3mm) 1.00 % ND PASS 5 Moisture Content 1.0 % 6.7 PASS 15",
+            "Foreign Matter 0.10 % ND PASS 2 Weight:",
+            "Mammalian excreta 0.10 mg ND PASS 1 1.077g",
+            "Weight: Analysis Method : SOP.T.40.021",
+            "7.4722g Analyzed Date : 10/04/24 14:11:36",
+            "Analysis Method : SOP.T.40.090",
+            "Analyzed Date : 10/04/24 09:25:27",
+            ".",
+            "PASSED"
+        ],
+        "Terpenes": {
+            "Terpenes LOQ mg/unit % Result (%) Terpenes LOQ (%) mg/unit % Result (%)": "0.0000%",
+            "BETA-CARYOPHYLLENE": "0.1900%",
+            "LINALOOL": "0.1200%",
+            "LIMONENE": "0.0600%",
+            "ALPHA-HUMULENE": "0.0600%",
+            "GERANIOL": "0.0400%",
+            "ALPHA TERPINEOL": "0.0300%",
+            "FENCHYL ALCOHOL": "0.0300%",
+            "ALPHA-BISABOLOL": "0.0300%",
+            "BETA-MYRCENE": "0.0300%",
+            "CARYOPHYLLENE OXIDE": "0.0200%",
+            "VALENCENE": "0.0100%",
+            "FARNESENE": "0.0000%",
+            "OCIMENE": "0.0000%",
+            "ALPHA-PINENE": "0.0000%",
+            "CAMPHENE": "0.0000%",
+            "GUAIOL": "0.0000%",
+            "MENTHOL": "0.0000%",
+            "TERPINOLENE": "0.0000%",
+            "ALPHA-PHELLANDRENE": "0.0000%",
+            "ALPHA-TERPINENE": "0.0000%",
+            "BETA-PINENE": "0.0000%"
+        }
+    },
+    {
+        "Sample Information": {
+            "Batch#": "DK00524ATF-02",
+            "Total Amount": "9088 units",
+            "Retail Size": "3.5 gram",
+            "Sampled Date": "01/05/24 05:00 PM",
+            "Total Terpenes": "1.7000%",
+            "File Name": "Alaskan Thunder Fuck - Dank.pdf"
+        },
+        "Cannabinoids": [
+            "23.4915% <0.1000 27.3705%",
+            "mg",
+            "(6AR,9R) (6AR,9S)",
+            "D10-THC D10-THC CBC CBD CBDA CBDV CBG CBGA CBN D8-THC D9-THC THCA THCV",
+            "% <0.1000 <0.1000 0.1694 <0.1000 <0.1000 <0.1000 0.1659 1.2016 <0.1000 0.1594 6.6334 19.0408 <0.1000",
+            "mg/unit <3.500 <3.500 5.929 <3.500 <3.500 <3.500 5.807 42.056 <3.500 5.579 232.169 666.428 <3.500",
+            "LOQ 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000",
+            "% % % % % % % % % % % % %"
+        ],
+        "Pesticides": {
+            "AZADIRACHTIN": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "INDOLE-3-BUTYRIC ACID": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "MYCLOBUTANIL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "PRALLETHRIN": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "PIPERONYL BUTOXIDE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ABAMECTIN B1A": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ACEPHATE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ACEQUINOCYL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ACETAMIPRID": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ALDICARB": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "AZOXYSTROBIN": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "CHLORMEQUAT CHLORIDE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "BIFENAZATE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "BIFENTHRIN": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "CARBARYL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "THIACLOPRID": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "COUMAPHOS": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "CHLORPYRIFOS": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "DAMINOZIDE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "BOSCALID": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "CARBOFURAN": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "CHLORANTRANILIPROLE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "CLOFENTEZINE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "DIAZINON": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "DICHLORVOS": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "DIMETHOATE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "DIMETHOMORPH": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ETHOPROPHOS": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ETOFENPROX": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "ETOXAZOLE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "FENPYROXIMATE": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "FIPRONIL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "HEXYTHIAZOX": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "IMAZALIL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "IMIDACLOPRID": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "KRESOXIM METHYL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "MALATHION": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "METALAXYL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "METHIOCARB": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "METHOMYL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "MEVINPHOS": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "NALED": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            },
+            "OXAMYL": {
+                "LOQ (ppm)": "0.1",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1"
+            }
+        },
+        "Microbial & Mycotoxins": [
+            "Analyte LOQ Units Result Pass / Action Analyte LOQ Units Result Pass / Action",
+            "Fail Level Fail Level",
+            "TOTAL AEROBIC BACTERIA 100 CFU/g 2600 TESTED AFLATOXIN G2 0.003 ppm <0.003 PASS 0.02",
+            "TOTAL YEAST AND MOLD 100 CFU/g 570 TESTED AFLATOXIN G1 0.003 ppm <0.003 PASS 0.02",
+            "ESCHERICHIA COLI SHIGELLA Not Present PASS AFLATOXIN B2 0.003 ppm <0.003 PASS 0.02",
+            "SPP AFLATOXIN B1 0.003 ppm <0.003 PASS 0.02",
+            "SALMONELLA SPECIES Not Present PASS OCHRATOXIN A+ 0.010 ppm <0.010 PASS 0.02",
+            "ASPERGILLUS TERREUS Not Present PASS TOTAL AFLATOXINS (B1, B2, G1, G2) 0.003 ppm <0.003 PASS 0.02",
+            "ASPERGILLUS NIGER Not Present PASS",
+            "Weight:",
+            "ASPERGILLUS FLAVUS Not Present PASS 1.0356g",
+            "ASPERGILLUS FUMIGATUS Not Present PASS",
+            "Analysis Method : SOP.T.30.104.NY, SOP.T.40.104.NY",
+            "Weight: Analyzed Date : 01/11/24 10:18:30",
+            "1.0689g",
+            ".",
+            "Analysis Method : SOP.T.40.058A.NY, SOP.T.40.058B.NY, SOP.T.40.208.NY",
+            "Analyzed Date : 01/08/24 16:19:47"
+        ],
+        "Heavy Metals": [
+            "Metal LOQ Units Result Pass / Action",
+            "Fail Level",
+            "ANTIMONY 0.1000 ug/g <0.1000PASS 2",
+            "ARSENIC 0.1000 ug/g <0.1000PASS 0.2",
+            "CADMIUM 0.1000 ug/g <0.1000PASS 0.3",
+            "CHROMIUM 1.0000 ug/g <1.0000PASS 110",
+            "COPPER 1.0000 ug/g <1.0000PASS 30",
+            "LEAD 0.1000 ug/g <0.1000PASS 0.5",
+            "MERCURY 0.0100 ug/g <0.0100PASS 0.1",
+            "NICKEL 0.1000 ug/g <0.1000PASS 5",
+            "Weight:",
+            "0.4469g",
+            "Analysis Method : SOP.T.30.084.NY, SOP.T.40.084.NY",
+            "Analyzed Date : 01/10/24 13:18:03",
+            ".",
+            "This Kaycha Labs Certification shall not be reproduced, unless in its entirety, without written approval from Kaycha Erica Troy",
+            "Labs. The results relate only to the material or product analyzed. ND=Not Detected, ppm=Parts Per Million,",
+            "ppb=Parts Per Billion, RSD=Relative Standard Deviation. Limit of Detection (LOD) and Limit Of Quantitation (LOQ) Lab Director",
+            "are terms used to describe the smallest concentration that can be detected and reliably measured by an analytical NY Permit # OCM-CPL-2022-00006",
+            "procedure, respectively. Action Levels are State determined thresholds based on 9 New York Codes, Rules and ISO 17025 Accreditation # 97164",
+            "Regulations (NYCRR) Part 130 and Cannabis Law. The Measurement of Uncertainty (MU) error is available from the ___________________",
+            "lab upon request. The \"Decision Rule\" for pass/fail does not include the MU. Any calculated totals may contain Signature",
+            "rounding errors. 01/12/24"
+        ],
+        "Filth & Moisture": [
+            "Moisture",
+            "Material",
+            "Analyte LOQ Units Result P/F Action Level Analyte LOQ Units Result P/F Action Level",
+            "Stems (>3mm) % ND PASS 5 Moisture Content 5.0 % 8.0 PASS 15",
+            "Foreign Matter % ND PASS 2 Weight:",
+            "Mammalian excreta mg ND PASS 1 1.178g",
+            "Weight: Analysis Method : SOP.T.40.021",
+            "14.6674g Analyzed Date : 01/08/24 15:07:04",
+            "Analysis Method : SOP.T.40.090",
+            "Analyzed Date : N/A",
+            ".",
+            "PASSED"
+        ],
+        "Terpenes": {
+            "Terpenes LOQ mg/unit % Result (%) Terpenes LOQ mg/unit % Result (%)": "0.0000%",
+            "BETA-CARYOPHYLLENE": "0.4500%",
+            "LIMONENE": "0.3700%",
+            "ALPHA-HUMULENE": "0.1700%",
+            "LINALOOL": "0.1100%",
+            "ALPHA-BISABOLOL": "0.1000%",
+            "ALPHA TERPINEOL": "0.0800%",
+            "FENCHYL ALCOHOL": "0.0600%",
+            "ALPHA-CEDRENE": "0.0600%",
+            "CARYOPHYLLENE OXIDE": "0.0500%",
+            "ALPHA-PINENE": "0.0400%",
+            "BETA-PINENE": "0.0400%",
+            "TRANS-NEROLIDOL": "0.0400%",
+            "VALENCENE": "0.0300%",
+            "OCIMENE": "0.0200%",
+            "BETA-MYRCENE": "0.0200%",
+            "CIS-NEROLIDOL": "0.0200%",
+            "BORNEOL": "0.0100%",
+            "CAMPHENE": "0.0100%",
+            "CEDROL": "0.0100%",
+            "FENCHONE": "0.0100%",
+            "EUCALYPTOL": "0.0000%",
+            "ISOPULEGOL": "0.0000%",
+            "SABINENE": "0.0000%",
+            "SABINENE HYDRATE": "0.0000%",
+            "TERPINOLENE": "0.0000%",
+            "GAMMA-TERPINENE": "0.0000%",
+            "3-CARENE": "0.0000%",
+            "CAMPHOR": "0.0000%",
+            "FARNESENE": "0.0000%",
+            "GERANIOL": "0.0000%",
+            "GERANYL ACETATE": "0.0000%"
+        }
+    },
+    {
+        "Sample Information": {
+            "Batch#": "P-GRIF352024-1354A",
+            "Total Amount": "10000 units",
+            "Retail Size": "3.5 gram",
+            "Serving Size": "0.0125 gram",
+            "Sampled Date": "10/31/24 02:00 PM",
+            "Total Terpenes": "1.6700%",
+            "File Name": "Animal Mint Cake - Infused - Grassroots.pdf"
+        },
+        "Cannabinoids": [
+            "37.4661% <0.1000 43.4996%",
+            "1522.4860 mg",
+            "(6AR,9R) (6AR,9S)",
+            "D10-THC D10-THC CBC CBD CBDA CBDV CBG D8-THC CBGA CBN D9-THC THCA THCV",
+            "% <0.1000 <0.1000 0.2370 <0.1000 <0.1000 <0.1000 <0.1000 <0.1000 0.6465 <0.1000 0.7468 41.8693 <0.1000",
+            "mg/unit <3.500 <3.500 8.295 <3.500 <3.500 <3.500 <3.500 <3.500 22.628 <3.500 26.138 1465.426 <3.500",
+            "LOQ 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000 0.1000",
+            "% % % % % % % % % % % % %"
+        ],
+        "Pesticides": {
+            "ACEQUINOCYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ABAMECTIN B1A": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACEPHATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ACETAMIPRID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "ALDICARB": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "AZOXYSTROBIN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CHLORMEQUAT CHLORIDE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "BIFENAZATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DAMINOZIDE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CARBOFURAN": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "BOSCALID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CHLORANTRANILIPROLE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DIAZINON": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "CLOFENTEZINE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "DICHLORVOS": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "FENPYROXIMATE": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "FIPRONIL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "HEXYTHIAZOX": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "IMAZALIL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "IMIDACLOPRID": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "KRESOXIM METHYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "MALATHION": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METALAXYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METHIOCARB": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.2",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "METHOMYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.4",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "MEVINPHOS": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "NALED": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "0.5",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            },
+            "OXAMYL": {
+                "LOQ (ppm)": "0.1000",
+                "Action Level": "1",
+                "Pass/Fail": "PASS",
+                "Result": "<0.1000"
+            }
+        },
+        "Microbial & Mycotoxins": [
+            "Analyte LOQ Units Result Pass / Action Analyte LOQ Units Result Pass / Action",
+            "Fail Level Fail Level",
+            "TOTAL AEROBIC BACTERIA 100 CFU/g <100 TESTED AFLATOXIN G2 0.0025 ppm <0.0025PASS 0.02",
+            "TOTAL YEAST AND MOLD 100 CFU/g <100 TESTED AFLATOXIN G1 0.0025 ppm <0.0025PASS 0.02",
+            "ESCHERICHIA COLI SHIGELLA 1 Not Present PASS AFLATOXIN B2 0.0025 ppm <0.0025PASS 0.02",
+            "SPP AFLATOXIN B1 0.0025 ppm <0.0025PASS 0.02",
+            "SALMONELLA SPECIES 1 Not Present PASS OCHRATOXIN A+ 0.0100 ppm <0.0100PASS 0.02",
+            "ASPERGILLUS TERREUS 1 Not Present PASS TOTAL AFLATOXINS (B1, B2, G1, G2) 0.0025 ppm <0.0025PASS 0.02",
+            "ASPERGILLUS NIGER 1 Not Present PASS",
+            "Weight:",
+            "ASPERGILLUS FLAVUS 1 Not Present PASS 0.9818g",
+            "ASPERGILLUS FUMIGATUS 1 Not Present PASS",
+            "Analysis Method : SOP.T.30.104.NY, SOP.T.40.104.NY",
+            "Weight: Analyzed Date : 11/05/24 03:57:46",
+            "0.87g",
+            ".",
+            "Analysis Method : SOP.T.40.058A.NY, SOP.T.40.058B.NY, SOP.T.40.208.NY",
+            "Analyzed Date : 11/04/24 15:15:56"
+        ],
+        "Heavy Metals": [
+            "Metal LOQ Units Result Pass / Action",
+            "Fail Level",
+            "ANTIMONY 0.1000 ug/g <0.1000PASS 2",
+            "ARSENIC 0.1000 ug/g <0.1000PASS 0.2",
+            "CADMIUM 0.1000 ug/g <0.1000PASS 0.2",
+            "CHROMIUM 1.0000 ug/g <1.0000PASS 110",
+            "COPPER 1.0000 ug/g <1.0000PASS 30",
+            "LEAD 0.1000 ug/g <0.1000PASS 0.5",
+            "MERCURY 0.0100 ug/g <0.0100PASS 0.1",
+            "NICKEL 0.1000 ug/g <0.1000PASS 2",
+            "Weight:",
+            "0.4708g",
+            "Analysis Method : SOP.T.30.084.NY, SOP.T.40.084.NY",
+            "Analyzed Date : 11/06/24 10:18:46",
+            ".",
+            "This Kaycha Labs Certification shall not be reproduced, unless in its entirety, without written approval from Kaycha Erica Troy",
+            "Labs. The results relate only to the material or product analyzed. ND=Not Detected, ppm=Parts Per Million,",
+            "ppb=Parts Per Billion, RSD=Relative Standard Deviation. Limit of Detection (LOD) and Limit Of Quantitation (LOQ) Lab Director",
+            "are terms used to describe the smallest concentration that can be detected and reliably measured by an analytical NY Permit # OCM-CPL-2022-00006",
+            "procedure, respectively. Action Levels are State determined thresholds based on 9 New York Codes, Rules and ISO 17025 Accreditation # 97164",
+            "Regulations (NYCRR) Part 130 and Cannabis Law. The Measurement of Uncertainty (MU) error is available from the ___________________",
+            "lab upon request. The \"Decision Rule\" for pass/fail does not include the MU. Any calculated totals may contain Signature",
+            "rounding errors. 11/06/24"
+        ],
+        "Filth & Moisture": [
+            "Moisture",
+            "Material",
+            "Analyte LOQ Units Result P/F Action Level Analyte LOQ Units Result P/F Action Level",
+            "Stems (>3mm) 1.00 % ND PASS 5 Moisture Content 1.0 % 6.3 PASS 15",
+            "Foreign Matter 0.10 % ND PASS 2 Weight:",
+            "Mammalian excreta 0.10 mg ND PASS 1 0.977g",
+            "Weight: Analysis Method : SOP.T.40.021",
+            "17.2266g Analyzed Date : 11/05/24 03:03:26",
+            "Analysis Method : SOP.T.40.090",
+            "Analyzed Date : 11/01/24 10:46:32",
+            ".",
+            "PASSED"
+        ],
+        "Terpenes": {
+            "Terpenes LOQ mg/unit % Result (%) Terpenes LOQ (%) mg/unit % Result (%)": "0.0000%",
+            "BETA-CARYOPHYLLENE": "0.5100%",
+            "LIMONENE": "0.5000%",
+            "FARNESENE": "0.1600%",
+            "LINALOOL": "0.1600%",
+            "ALPHA-HUMULENE": "0.1500%",
+            "BETA-MYRCENE": "0.1100%",
+            "BETA-PINENE": "0.0700%",
+            "FENCHYL ALCOHOL": "0.0500%",
+            "ALPHA TERPINEOL": "0.0400%",
+            "ALPHA-PINENE": "0.0300%",
+            "VALENCENE": "0.0200%",
+            "CAMPHENE": "0.0100%",
+            "CARYOPHYLLENE OXIDE": "0.0100%",
+            "ALPHA-BISABOLOL": "0.0100%",
+            "GERANIOL": "0.0000%",
+            "GUAIOL": "0.0000%",
+            "MENTHOL": "0.0000%",
+            "OCIMENE": "0.0000%",
+            "TERPINOLENE": "0.0000%",
+            "ALPHA-PHELLANDRENE": "0.0000%",
+            "ALPHA-TERPINENE": "0.0000%"
+        }
+    }
+]
