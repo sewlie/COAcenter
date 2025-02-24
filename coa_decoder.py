@@ -3,12 +3,6 @@ import re
 import logging
 import os
 
-# ✅ Configure logging
-logging.basicConfig(
-    filename="single_pdf_analyzer.log",
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
 
 # ✅ Paths
 PDF_FOLDER_PATH = r"C:\Users\lilma\OneDrive\Documentos\NICO CODE\COAcenter"
