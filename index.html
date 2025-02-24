@@ -10,32 +10,50 @@
             background-color: #f4f4f4;
             margin: 20px;
             padding: 20px;
+            overflow-x: hidden;
         }
         .container {
             width: 100%;
-            overflow-x: auto; /* Enables horizontal scrolling */
+            overflow-x: auto;
             background: white;
             padding: 10px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            scrollbar-width: none;
+        }
+        .container::-webkit-scrollbar {
+            display: none;
         }
         table {
             width: 100%;
             border-collapse: collapse;
             font-size: 12px;
-            white-space: nowrap; /* Prevents text from wrapping */
+            white-space: nowrap;
         }
         th, td {
             border: 1px solid #ddd;
             padding: 6px;
             text-align: left;
+            color: black;
         }
         th {
             background: #007BFF;
             color: white;
         }
-        .table-wrapper {
-            overflow-x: auto; /* Horizontal scroll if needed */
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .terpene-total {
+            font-weight: bold;
+        }
+        .pesticide-result {
+            font-weight: bold;
+        }
+        .divider {
+            background-color: #444;
+            color: white;
+            text-align: center;
+            font-weight: bold;
         }
     </style>
 </head>
@@ -62,7 +80,7 @@
 
     <script>
         async function fetchData() {
-            const response = await fetch('coa_data.json'); // Ensure JSON is served from the same directory
+            const response = await fetch('coa_data.json'); 
             const data = await response.json();
             const tableHeader = document.getElementById("header-row");
             const tableBody = document.getElementById("coa-body");
@@ -70,18 +88,27 @@
             let allTerpenes = new Set();
             let allPesticides = new Set();
 
-            // Collect all unique column headers for terpenes & pesticides
             data.forEach(entry => {
-                Object.keys(entry["Terpenes"] || {}).forEach(terpene => allTerpenes.add(terpene));
-                Object.keys(entry["Pesticides"] || {}).forEach(pesticide => allPesticides.add(pesticide));
+                Object.keys(entry["Terpenes"] || {}).forEach(terpene => {
+                    if (!terpene.includes("LOQ")) { 
+                        allTerpenes.add(terpene);
+                    }
+                });
+                Object.keys(entry["Pesticides"] || {}).forEach(pesticide => {
+                    allPesticides.add(pesticide);
+                });
             });
 
-            // Append Terpene & Pesticide Headers
             allTerpenes.forEach(terpene => {
                 let th = document.createElement("th");
                 th.textContent = terpene;
                 tableHeader.appendChild(th);
             });
+
+            let thDivider1 = document.createElement("th");
+            thDivider1.className = "divider";
+            thDivider1.textContent = "——— Pesticides ———";
+            tableHeader.appendChild(thDivider1);
 
             allPesticides.forEach(pesticide => {
                 let th = document.createElement("th");
@@ -89,9 +116,16 @@
                 tableHeader.appendChild(th);
             });
 
-            // Populate Table Rows
+            let thDivider2 = document.createElement("th");
+            thDivider2.className = "divider";
+            thDivider2.textContent = "——— Other Sections ———";
+            tableHeader.appendChild(thDivider2);
+
             data.forEach(entry => {
                 let row = document.createElement("tr");
+
+                let totalTerpenes = parseFloat(entry["Sample Information"]["Total Terpenes"]) || 0;
+                let terpeneColor = getTerpeneColor(totalTerpenes);
 
                 row.innerHTML = `
                     <td>${entry["Sample Information"]["File Name"] || "N/A"}</td>
@@ -99,24 +133,44 @@
                     <td>${entry["Sample Information"]["Total Amount"] || "N/A"}</td>
                     <td>${entry["Sample Information"]["Retail Size"] || "N/A"}</td>
                     <td>${entry["Sample Information"]["Sampled Date"] || "N/A"}</td>
-                    <td>${entry["Sample Information"]["Total Terpenes"] || "N/A"}</td>
+                    <td class="terpene-total" style="background:${terpeneColor}">${totalTerpenes.toFixed(4)}%</td>
                 `;
 
-                // Fill Terpene Data
                 allTerpenes.forEach(terpene => {
                     let value = entry["Terpenes"][terpene] || "0.0000%";
                     row.innerHTML += `<td>${value}</td>`;
                 });
 
-                // Fill Pesticide Data
+                row.innerHTML += `<td class="divider"></td>`;
+
                 allPesticides.forEach(pesticide => {
-                    let data = entry["Pesticides"][pesticide] || { "Pass/Fail": "N/A" };
-                    let passFail = data["Pass/Fail"] || "N/A";
-                    row.innerHTML += `<td>${passFail}</td>`;
+                    let data = entry["Pesticides"][pesticide] || { "Result": "<0.0000" };
+                    let resultValue = parseFloat(data["Result"].replace("<", "")) || 0;
+                    
+                    let pesticideColor = resultValue < 0.1 ? "#FFFFFF" : getPesticideColor(resultValue);
+                    
+                    row.innerHTML += `<td class="pesticide-result" style="background:${pesticideColor}">${data["Result"]}</td>`;
                 });
+
+                row.innerHTML += `<td class="divider"></td>`;
 
                 tableBody.appendChild(row);
             });
+        }
+
+        function getTerpeneColor(value) {
+            let baseGreen = 240;
+            let lightness = Math.max(85 - (value * 20), 50);
+            return `hsl(120, 50%, ${lightness}%)`;
+        }
+
+        function getPesticideColor(value) {
+            if (value = 0.1) {
+                return "#FFFFFF"; // Treat <0.1 as zero (white)
+            }
+            let baseRed = 0;
+            let intensity = Math.min(100, Math.max(50, 80 - (value * 400)));  
+            return `hsl(${baseRed}, 80%, ${intensity}%)`;
         }
 
         fetchData();
