@@ -4,7 +4,7 @@ import os
 import json
 
 # ✅ Paths
-PDF_FOLDER_PATH = r"C:\Users\lilma\OneDrive\Documentos\NICO CODE\COAcenter"
+PDF_FOLDER_PATH = r"C:\Users\lilma\OneDrive\Documentos\NICO CODE\COAcenter NEW\COAcenter"
 CSV_FILE_PATH = r"C:\Users\lilma\OneDrive\Documentos\NICO CODE\COAcenter\extracted_terpenes.csv"
 
 # ✅ Function to clean extracted text
